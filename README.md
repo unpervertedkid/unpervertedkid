@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development, UI/UX design(I really love a good looking design thus the choice). My pasion to try and figure out how everything works led me to the backdoor I guess😊
 - 🌱 I’m currently learning Backend development with Java. I also am learning UX design.
 - 💞️ I’m looking to collaborate on projects, learn new skills  get to show out my skills and keep up with the great developer community
-- 📫 Reach out to me on Linkedin - https://www.linkedin.com/in/brian-silah-574b291bb
+- 📫 Reach out to me on Linkedin - https://www.linkedin.com/in/briansilah/
 
 <!---
 unpervertedkid/unpervertedkid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

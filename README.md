@@ -1,8 +1,10 @@
-# Hey 🙋🏽‍♂️, I'm Brian Silah!
+# Hi, I'm Brian Silah 👋
 
- Curious and super geeky about tech,  music, photography, and anything that piques my interest
+I'm a software engineer who loves solving complex problems and learning new things. I'm currently focusing on distributed systems, but I'm also curious about whatever interests me.
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briansilah/)
+## 🌱 What I'm learning
+
+- [Rust](https://www.rust-lang.org/)
+- Distributed Systems
 
 
